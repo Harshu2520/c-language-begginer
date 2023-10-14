@@ -1,2 +1,3 @@
 # c-language-begginer
-This my first repository
+This is my first git repository,
+Author- Harsh kanojiya
